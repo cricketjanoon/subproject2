@@ -1,0 +1,4 @@
+[submodule "subproject3"]
+	path = subproject3
+	url = git@github.com:cricketjanoon/subproject3.git
+	branch = main
